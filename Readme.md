@@ -66,10 +66,7 @@ To learn more about the war and how you can help, [click here](https://tyrrrz.me
 - File partitioning, date ranges, message filtering, and other export options
 - Self-contained exports that can be viewed offline
 
-## Screenshots
 
-![channel list](.assets/list.png)
-![rendered output](.assets/output.png)
 
 ## See also
 
